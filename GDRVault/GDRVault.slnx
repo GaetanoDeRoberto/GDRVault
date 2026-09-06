@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../GDRVault.Bridge/GDRVault.Bridge.csproj" />
+  <Project Path="../GDRVault.Core/GDRVault.Core.csproj" />
+  <Project Path="../GDRVault.Security.Tests/GDRVault.Security.Tests.csproj" />
+  <Project Path="../GDRVault.Security/GDRVault.Security.csproj" />
+  <Project Path="../GDRVault.Storage/GDRVault.Storage.csproj" />
+  <Project Path="GDRVault.csproj" />
+</Solution>
