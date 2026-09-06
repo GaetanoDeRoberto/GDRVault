@@ -154,16 +154,10 @@ Privacy information:
 
 https://www.gdrdesign.it/privacy-gdrvault
 
-License
+## Download Estensioni
 
-License information will be added as the project develops.
+#Chrome:
+[Estensione Chrome](https://chromewebstore.google.com/detail/gdrvault-autofill/aojcbkjfeddfakoijpkemjfcapcnhiob)
 
-GDRVault — Secure your credentials. Keep control of your data.
-
-
-### 2. Salva il file
-
-Poi torna nel PowerShell che hai già aperto e lancia:
-
-```powershell
-git status
+#Edge:
+[Estensione Edge](https://microsoftedge.microsoft.com/addons/detail/gdrvault-autofill/lelilhamjohglapjcchcdaigijknboal)
