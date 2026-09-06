@@ -154,10 +154,10 @@ Privacy information:
 
 https://www.gdrdesign.it/privacy-gdrvault
 
-## Download Estensioni
+- Download Estensioni
 
-#Chrome:
-[Estensione Chrome](https://chromewebstore.google.com/detail/gdrvault-autofill/aojcbkjfeddfakoijpkemjfcapcnhiob)
+- Chrome:
+https://chromewebstore.google.com/detail/gdrvault-autofill/aojcbkjfeddfakoijpkemjfcapcnhiob
 
-#Edge:
-[Estensione Edge](https://microsoftedge.microsoft.com/addons/detail/gdrvault-autofill/lelilhamjohglapjcchcdaigijknboal)
+- Edge:
+https://microsoftedge.microsoft.com/addons/detail/gdrvault-autofill/lelilhamjohglapjcchcdaigijknboal
