@@ -157,6 +157,12 @@ https://www.gdrdesign.it/privacy-gdrvault
 - Download Estensioni
 
 - Chrome:
+
+## License
+
+GDRVault is released under the MIT License.
+
+See the [LICENSE](LICENSE) file for the full license text.
 https://chromewebstore.google.com/detail/gdrvault-autofill/aojcbkjfeddfakoijpkemjfcapcnhiob
 
 - Edge:
